@@ -23,7 +23,7 @@ This is a backend API for a social network web application where users can share
 
 1. Clone the repository:
 
-   git clone https://github.com/your-username/social-network-api.git
+   git clone https://github.com/tcs3000/Challenge-17-Social-Network.git
    cd social-network-api
 
    npm install
